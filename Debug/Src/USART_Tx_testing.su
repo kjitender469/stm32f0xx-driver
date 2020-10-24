@@ -1,0 +1,8 @@
+USART_Tx_testing.c:28:6:delay	16	static
+USART_Tx_testing.c:37:6:USART1_GPIO_Init	24	static
+USART_Tx_testing.c:62:6:USART1_Init	8	static
+USART_Tx_testing.c:75:6:GPIO_ButtonInit	24	static
+USART_Tx_testing.c:90:6:Murtaza_USART_Init	16	static
+USART_Tx_testing.c:139:6:USART_write_char	32	static
+USART_Tx_testing.c:160:6:USART_write_str	16	static
+USART_Tx_testing.c:169:5:main	16	static

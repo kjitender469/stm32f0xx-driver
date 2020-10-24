@@ -1,0 +1,8 @@
+"Src/USART_Tx_testing.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f030r8tx.o"
+"drivers/Src/stm32f030xx_gpio_driver.o"
+"drivers/Src/stm32f030xx_i2c_driver.o"
+"drivers/Src/stm32f030xx_spi_driver.o"
+"drivers/Src/stm32f030xx_usart_driver.o"
